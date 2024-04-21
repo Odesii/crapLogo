@@ -12,8 +12,8 @@ To install this barely tolerable piece of software:
 
 bash
 
-git clone https://github.com/YourRepo/CrappySVGLogoGenerator.git
-cd THIS
+git clone https://github.com/Odesii/crapLogo.git
+cd crapLogo
 npm install
 
 Yes, you need Node.js. No, I won't explain why. If you don’t know what Node.js is, perhaps reconsider your life choices.
