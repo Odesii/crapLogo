@@ -1,5 +1,5 @@
 
-    <svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
 
     <polygon points="150, 18 244, 182 56, 182" fill="Black"/>
     <text x="95" y="95" font-size="60" text-anchor="middle" fill="Blue">WTF</text>
