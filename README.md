@@ -36,9 +36,9 @@ or
 
 ## Features
 
--*Generate Logos:* Yes, it does that.
--*Customizable:* To a pitiful extent.
--*Help:* You're beyond it.
+- *Generate Logos:* Yes, it does that.
+- *Customizable:* To a pitiful extent.
+- *Help:* You're beyond it.
 
 ## Screen Shot
 [Video walk through](https://youtu.be/425WyrySsOk)
